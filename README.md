@@ -27,5 +27,6 @@ Junior Backend Developer focused on Java and Spring Boot, building REST APIs wit
 - **currency-converter** – REST API for currency conversion using Spring Boot, focusing on clean architecture, caching, and cloud-ready design
 
 ## Contact
-- Email: alexandrelskanha@outlook.com
-- LinkedIn: https://www.linkedin.com/in/alexandre-lucas-kanha-353205199/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-lucas-kanha-353205199/)
+[![Email](https://img.shields.io/badge/Email-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:alexandrelskanha@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5541991678060)
