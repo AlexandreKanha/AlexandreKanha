@@ -1,20 +1,18 @@
 # Alexandre Kanha
 
 ## Summary
-
-Backend Developer specializing in building robust and scalable server-side applications. Experienced in developing secure REST APIs and implementing enterprise-level solutions using Java and Spring ecosystem technologies.
+Junior Backend Developer focused on Java and Spring Boot, building REST APIs with attention to security, code quality, and backend best practices. Experience with authentication, relational databases, caching, and version control.
 
 ## About Me
-
-- Backend Developer with focus on Java-based enterprise applications
-- Specialized in building secure REST APIs with Spring Boot and Spring Security
-- Experience implementing authentication and authorization using JWT
-- Proficient in designing and optimizing relational databases with PostgreSQL
-- Strong understanding of build automation and dependency management with Maven
-- Committed to version control best practices using Git
+- Backend development using Java and Spring Boot
+- Development of RESTful APIs
+- Authentication and authorization with Spring Security and JWT
+- Relational database modeling with PostgreSQL
+- Caching strategies and clean architecture fundamentals
+- Build and dependency management using Maven
+- Version control with Git and GitHub
 
 ## Technologies
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
@@ -25,9 +23,9 @@ Backend Developer specializing in building robust and scalable server-side appli
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ## Featured Projects
-
-Projects will be added here as they become available.
+- **digital-services-platform** – REST API with JWT authentication, protected endpoints, and layered structure
+- **currency-converter** – REST API for currency conversion using Spring Boot, focusing on clean architecture, caching, and cloud-ready design
 
 ## Contact
-
-Feel free to reach out for collaboration opportunities or technical discussions.
+- Email: alexandrelskanha@outlook.com
+- LinkedIn: https://www.linkedin.com/in/alexandre-lucas-kanha-353205199/
