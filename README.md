@@ -7,7 +7,7 @@ Junior Backend Developer focused on Java and Spring Boot, building REST APIs wit
 - Backend development using Java and Spring Boot
 - Development of RESTful APIs
 - Authentication and authorization with Spring Security and JWT
-- Relational database modeling with PostgreSQL
+- Relational database modeling with MySQL
 - Caching strategies and clean architecture fundamentals
 - Build and dependency management using Maven
 - Version control with Git and GitHub
