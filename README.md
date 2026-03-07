@@ -64,9 +64,9 @@ I enjoy translating product requirements into clean domain models, well-structur
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreKanha&show_icons=true&hide_title=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreKanha&show_icons=true&hide_title=true&theme=transparent&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreKanha&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreKanha&layout=compact&theme=transparent&v=1)
 
 ---
 
