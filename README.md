@@ -9,9 +9,16 @@ Focused on REST API design, authentication, relational databases, and clean back
 
 ---
 
+### Engineering Snapshot
+
+- Backend development with Java and Spring Boot
+- Designing REST APIs with authentication and relational data models
+- Working with Spring Security, JWT, and MySQL
+- Focused on maintainable service design and clear API contracts
+
 ## About
 
-Backend developer working mainly with Java and Spring Boot. I focus on building well-structured REST APIs, with attention to security, data integrity, and code that's easy to maintain and extend. Interested in authentication patterns, relational data modeling, and API design.
+Backend developer focused on building REST APIs using Java and Spring Boot, with an emphasis on authentication, relational data modeling, and maintainable service design. I focus on building well-structured REST APIs, with attention to security, data integrity, and code that's easy to maintain and extend. Interested in authentication patterns, relational data modeling, and API design.
 
 ---
 
@@ -55,7 +62,7 @@ Authentication and user management API built with Java 17 and Spring Boot 3.
 ### [currency-converter](https://github.com/AlexandreKanha/currency-converter)
 Currency conversion API that consumes an external exchange-rate provider.
 
-- Built with Spring Boot 4 and Spring Web MVC
+- Spring Boot 3 and Spring Web MVC
 - In-memory caching with configurable freshness TTL (300s) and stale fallback window (3600s)
 - Separate cache for the currency list with a 24h TTL
 - Input validation and structured error handling
