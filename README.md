@@ -2,19 +2,23 @@
 
 Secure, scalable REST APIs • Spring Security & JWT • Clean Architecture • Relational data & caching
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AlexandreKanha&label=Profile%20views&color=0e75b6&style=flat-square" alt="Alexandre Kanha profile views" />
+</p>
+
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 ---
 
 ## About Me
 Backend engineer focused on building production-ready services in the Java/Spring ecosystem, with an emphasis on security, API design, and maintainable architectures.  
-I enjoy translating product requirements into clean domain models, well-structured services, and reliable integrations that are straightforward to test, deploy, and evolve.
+I enjoy translating product requirements into clean domain models, well-structured services, and reliable integrations that are straightforward to test, deploy, and scale.
 
 ---
 
@@ -23,7 +27,7 @@ I enjoy translating product requirements into clean domain models, well-structur
 - Security: Spring Security, JWT auth flows, RBAC/authorization rules, validation hardening, and secure defaults.
 - Data & persistence: relational schema design, MySQL queries/indexing, transaction boundaries, and migration-friendly development.
 - Performance: caching strategies, hot-path optimization, and pragmatic tuning based on metrics and profiling.
-- Quality: testable design, unit/integration testing, CI-friendly builds, and code reviews aligned with long-term maintainability.
+- Quality & Deployment: testable design, containerization with Docker, CI-friendly builds, and code reviews aligned with long-term maintainability.
 
 ---
 
@@ -31,9 +35,8 @@ I enjoy translating product requirements into clean domain models, well-structur
 - Languages: Java
 - Frameworks: Spring Boot, Spring Security
 - API: REST, JWT authentication
-- Build & tooling: Maven
-- Data: MySQL
-- Version control: Git / GitHub
+- Data & Infrastructure: MySQL, Docker
+- Build & Tooling: Maven, Git, GitHub
 
 ---
 
@@ -61,7 +64,7 @@ I enjoy translating product requirements into clean domain models, well-structur
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreKanha&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreKanha&show_icons=true&hide_title=true&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreKanha&layout=compact&theme=transparent)
 
