@@ -87,3 +87,4 @@ Task and incident management API with CRUD operations and MySQL persistence.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre%20Kanha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-lucas-kanha-353205199/)
 [![Email](https://img.shields.io/badge/Email-alexandrelskanha%40outlook.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandrelskanha@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2041%2099167--8060-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5541991678060)
