@@ -79,16 +79,12 @@ Task and incident management API with CRUD operations and MySQL persistence.
 - API documented with Swagger/OpenAPI
 - Service and controller tests with JUnit 5 and MockMvc
 
----
-
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandreKanha&show_icons=true&hide_title=true&theme=transparent&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreKanha&layout=compact&theme=transparent&v=1" alt="Top Languages" />
-</div>
-
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlexandreKanha&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexandreKanha&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 ## Contact
 
