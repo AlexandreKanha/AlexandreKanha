@@ -82,8 +82,8 @@ Task and incident management API with CRUD operations and MySQL persistence.
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlexandreKanha&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexandreKanha&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-statss-flax.vercel.app/api?username=AlexandreKanha&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-statss-flax.vercel.app/api/top-langs/?username=AlexandreKanha&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ## Contact
